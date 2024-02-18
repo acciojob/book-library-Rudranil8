@@ -2,6 +2,18 @@
 body{
 	background-color:#f8f8f8;
 }
-#book-library{
+.book-library{
 	background-color:#ffffff;
+}
+.book{
+	color:#777777;
+}
+.author{
+	color:#777777;
+}
+.price{
+	color:white;
+	width:100%;
+	background-color:#2ecc71;
+	text-align:center;
 }
